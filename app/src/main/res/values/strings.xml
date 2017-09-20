@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Kotlin GPS Login Example</string>
+
+    <string name="login_failed_message">login failed. please try again</string>
+    <string name="not_close_session">session is not closed</string>
+    <string name="not_revoke">session is not revoked</string>
+    <string name="log_out">log out</string>
+    <string name="revoke">revoke</string>
+
+</resources>
